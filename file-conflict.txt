@@ -1,3 +1,5 @@
-#main project - version MAIN
+#Merged project - Final version
 This line was written from the main branch
-additional line 
+additional line main
+additional line new-feature
+
