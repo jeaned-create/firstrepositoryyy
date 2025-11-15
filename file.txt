@@ -1,2 +1,3 @@
 modif' on MASTER
 changes to MASTER
+Added line on MASTER
